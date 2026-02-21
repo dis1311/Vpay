@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+requests
+razorpay
+setuptools
+pyjwt
+python-dotenv
+passlib[bcrypt]
